@@ -27,7 +27,7 @@ setuptools.setup(
     url="https://github.com/mahanama94/memento-validator",
     packages=setuptools.find_packages(),
     install_requires=[
-        "Flask==2.0.1",
+        "Flask==2.3.2",
         "python-dateutil==2.8.1",
         "typing-extensions==3.10.0.0",
         "urllib3==1.26.5",
